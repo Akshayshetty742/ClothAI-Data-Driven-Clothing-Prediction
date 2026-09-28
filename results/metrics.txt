@@ -1,0 +1,5 @@
+Neural Network Test MSE: 0.00150401
+Neural Network Test RMSE: 0.03878156
+Neural Network Test MAE: 0.03073971
+Linear Regression Test MSE: 0.00109090
+PCA explained variance (128 components): 0.999885
